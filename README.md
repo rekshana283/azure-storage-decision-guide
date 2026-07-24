@@ -68,3 +68,22 @@ An online shopping website stores new orders in a queue before processing them.
 
 **Real-world example:**
 An IoT application stores temperature readings from thousands of sensors.
+
+
+
+## 📊 Azure Storage Comparison
+
+| Storage Service | Best For | Example |
+|-----------------|----------|----------|
+| Blob Storage | Images, Videos, Backups | Photo sharing app |
+| File Storage | Shared folders | Company documents |
+| Queue Storage | Messages between applications | Order processing |
+| Table Storage | NoSQL structured data | User profiles |
+
+
+## ✅ How to Choose the Right Storage
+
+- Choose **Blob Storage** for files such as images, videos, and documents.
+- Choose **File Storage** when multiple users need to access the same files.
+- Choose **Queue Storage** when applications need to exchange messages.
+- Choose **Table Storage** for large amounts of structured NoSQL data.
