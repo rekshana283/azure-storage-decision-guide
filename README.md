@@ -98,3 +98,14 @@ An IoT application stores temperature readings from thousands of sensors.
 - Use Azure Table Storage for scalable NoSQL data.
 - Choose the storage service based on your application's requirements.
 - Enable data backup and monitoring whenever possible.
+
+
+
+
+## 📝 Conclusion
+
+Azure offers multiple storage services, each designed for different business requirements.
+
+Selecting the correct storage service improves application performance, scalability, security, and cost efficiency.
+
+Understanding Azure Storage is an essential skill for cloud professionals and for the Microsoft Azure AZ-900 certification.
