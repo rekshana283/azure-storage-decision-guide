@@ -116,5 +116,5 @@ Understanding Azure Storage is an essential skill for cloud professionals and fo
 
 The following diagram shows how different Azure Storage services are used in a business application.
 
-> **Architecture diagram will be added here.**
+![Azure Storage Architecture](azure-storage-architecture.png)
 
