@@ -109,3 +109,12 @@ Azure offers multiple storage services, each designed for different business req
 Selecting the correct storage service improves application performance, scalability, security, and cost efficiency.
 
 Understanding Azure Storage is an essential skill for cloud professionals and for the Microsoft Azure AZ-900 certification.
+
+
+
+## 🏗️ Azure Storage Architecture
+
+The following diagram shows how different Azure Storage services are used in a business application.
+
+> **Architecture diagram will be added here.**
+
