@@ -119,3 +119,18 @@ The following diagram shows how different Azure Storage services are used in a b
 
 ![Azure Storage Architecture](azure-storage-architecture.drawio.png)
 
+
+
+## 💼 Interview Questions
+
+### 1. What is Azure Blob Storage?
+**Answer:** Azure Blob Storage is designed to store unstructured data such as images, videos, documents, and backup files.
+
+### 2. Which Azure Storage service is best for sharing files?
+**Answer:** Azure File Storage is the best choice because it allows multiple users and applications to access the same files.
+
+### 3. Why is Azure Queue Storage important?
+**Answer:** It stores messages between applications and supports asynchronous communication.
+
+### 4. What type of data is stored in Azure Table Storage?
+**Answer:** Azure Table Storage stores structured NoSQL data with high scalability.
