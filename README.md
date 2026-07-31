@@ -142,3 +142,15 @@ The following diagram shows how different Azure Storage services are used in a b
 - Microsoft Learn
 - Microsoft Azure Documentation
 - AZ-900 Microsoft Azure Fundamentals Learning Path
+
+
+## 🎯 Skills Gained
+
+- Azure Storage Concepts
+- Blob Storage
+- File Storage
+- Queue Storage
+- Table Storage
+- Storage Comparison
+- Technical Documentation
+- Architecture Design
