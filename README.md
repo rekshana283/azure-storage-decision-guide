@@ -134,3 +134,11 @@ The following diagram shows how different Azure Storage services are used in a b
 
 ### 4. What type of data is stored in Azure Table Storage?
 **Answer:** Azure Table Storage stores structured NoSQL data with high scalability.
+
+
+
+## 📚 References
+
+- Microsoft Learn
+- Microsoft Azure Documentation
+- AZ-900 Microsoft Azure Fundamentals Learning Path
